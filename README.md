@@ -15,7 +15,7 @@ I'm 20 years old, I live in Indaiatuba/SP and I'm passionate about programming a
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
 ##
 <br>
-<div>
+<div align="center">
 <a href="https://github.com/OHackmann">
 <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OHackmann&layout=compact&langs_count=7&theme=github_dark"/>
 <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=OHackmann&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
