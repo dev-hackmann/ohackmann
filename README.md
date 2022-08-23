@@ -17,8 +17,8 @@ I'm 20 years old, I live in Indaiatuba/SP and I'm passionate about programming a
 <br>
 <div>
 <a href="https://github.com/OHackmann">
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OHackmann&layout=compact&langs_count=7&theme=github_dark"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=OHackmann&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+<img height="180em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OHackmann&layout=compact&langs_count=7&theme=github_dark"/>
+<img height="180em" width="300em" src="https://github-readme-stats.vercel.app/api?username=OHackmann&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 </div>
 
 ![Snake animation](https://github.com/OHackmann/ohackmann/blob/output/github-contribution-grid-snake.svg)
