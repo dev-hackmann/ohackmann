@@ -3,7 +3,7 @@
 
 ## Hello! Welcome to my Github profile.
 ### 😄 My name is Lucas!
-I'm 20 years old, I live in Indaiatuba/SP and I'm passionate about programming and games! I am currently working as a Test Engineer at Unisys and I only wake up with a small cup of coffee.
+I'm 22 years old, I live in Indaiatuba/SP and I'm passionate about programming and games! I am currently working as a Test Engineer at Unisys and I only wake up with a small cup of coffee.
 <p align="left">
   <img src="https://c.tenor.com/9M4hj9VGMkwAAAAC/breakfast-of-champions.gif" width="350">
 </p>
