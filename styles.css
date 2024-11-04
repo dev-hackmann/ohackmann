@@ -108,7 +108,7 @@ h5 {
     background-size: cover; /* Faz com que a imagem cubra todo o container */
     background-repeat: no-repeat; /* Evita que a imagem se repita */
     width: 100%; /* Define a largura do container */
-    height: 500px; /* Define a altura do container (ou ajuste conforme a necessidade) */
+    height: 400px; /* Define a altura do container (ou ajuste conforme a necessidade) */
 }
 
 * {
@@ -205,86 +205,4 @@ body {
 .line img {
     height: 60%;
     place-self: center;
-}
-
-
-.form-container {
-    width: 100%;
-    padding: 50px;
-    background-color: #fff;
-    border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-}
-
-.form-container h2 {
-    text-align: center;
-    color: #333;
-}
-
-.form-group {
-    margin-bottom: 15px;
-    position: relative;
-}
-
-.form-group label {
-    font-size: 14px;
-    color: #4269F6;
-    position: absolute;
-    top: -10px;
-    left: 5px;
-    background: #fff;
-    padding: 0 5px;
-}
-
-.form-group input,
-.form-group textarea {
-    width: 100%;
-    padding: 10px;
-    font-size: 16px;
-    border: none;
-    border-bottom: 2px solid #e0e0e0;
-    outline: none;
-    resize: none;
-}
-
-.form-group input:focus,
-.form-group textarea:focus {
-    border-bottom: 2px solid #4269F6;
-}
-
-.form-row {
-    display: flex;
-    gap: 10px;
-}
-
-.submit-btn {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 100%;
-    padding: 10px;
-    margin-top: 20px;
-    font-size: 16px;
-    font-weight: bold;
-    color: #000000;
-    background-color: #D5F60C;
-    border: none;
-    border-radius: 8px;
-    cursor: pointer;
-    transition: background-color 0.3s;
-}
-
-.submit-btn:hover {
-    background-color: #23252A;
-    color: white;
-    border: 1px solid #D5F60C;
-    color: #D5F60C;
-    background-color: #23252A;
-}
-
-.submit-btn svg {
-    margin-left: 5px;
-    width: 16px;
-    height: 16px;
-    fill: #fff;
 }
